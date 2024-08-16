@@ -17,18 +17,18 @@ body {
 }
 
 h1 {
-    color:white;
+    color:black;
     text-align: center;
 }
 
 .digit {
     font-size: 150px;
-    color: #fff;
+    color:black;
 }
 
 .txt {
     font-size: 30px;
-    color: #fffcd6;
+    color: black;
 }
 
 #buttons {
@@ -46,18 +46,18 @@ h1 {
     cursor: pointer;
     font-size: 20px;
     transition: 0.5s;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: 500;
 }
 
 #start {
-    background-color: palevioletred;
+    background-color: rgb(216, 112, 193);
 }
 
 #stop {
-    background-color: palevioletred;
+    background-color: rgb(216, 112, 185);
 }
 
 #reset {
-    background-color: palevioletred;
+    background-color: rgb(216, 112, 173);
 }
